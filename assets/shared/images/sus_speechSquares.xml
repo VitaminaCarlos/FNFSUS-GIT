@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sus_speechSquares.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="speech square normal0000" x="0" y="0" width="1188" height="239"/>
+	<SubTexture name="speech square normal0001" x="0" y="0" width="1188" height="239"/>
+	<SubTexture name="speech square normal0002" x="0" y="0" width="1188" height="239"/>
+	<SubTexture name="speech square normal0003" x="0" y="0" width="1188" height="239"/>
+	<SubTexture name="speech square normal0004" x="0" y="0" width="1188" height="239"/>
+	<SubTexture name="speech square normal0005" x="0" y="0" width="1188" height="239"/>
+	<SubTexture name="speech square normal0006" x="0" y="0" width="1188" height="239"/>
+	<SubTexture name="speech square normal0007" x="0" y="0" width="1188" height="239"/>
+	<SubTexture name="speech square normal0008" x="0" y="0" width="1188" height="239"/>
+	<SubTexture name="speech square normal0009" x="0" y="0" width="1188" height="239"/>
+	<SubTexture name="speech square normal0010" x="0" y="0" width="1188" height="239"/>
+	<SubTexture name="speech square normal0011" x="0" y="0" width="1188" height="239"/>
+	<SubTexture name="speech square normal0012" x="0" y="0" width="1188" height="239"/>
+	<SubTexture name="speech square normal0013" x="0" y="0" width="1188" height="239"/>
+	<SubTexture name="speech square normal0014" x="0" y="0" width="1188" height="239"/>
+	<SubTexture name="speech square normal0015" x="0" y="0" width="1188" height="239"/>
+	<SubTexture name="speech square normal0016" x="0" y="0" width="1188" height="239"/>
+	<SubTexture name="speech square normal0017" x="0" y="0" width="1188" height="239"/>
+	<SubTexture name="speech square normal0018" x="0" y="0" width="1188" height="239"/>
+	<SubTexture name="speech square normal0019" x="0" y="0" width="1188" height="239"/>
+	<SubTexture name="speech square open0000" x="0" y="239" width="1188" height="85" frameX="0" frameY="0" frameWidth="1188" frameHeight="239"/>
+	<SubTexture name="speech square open0001" x="0" y="324" width="1188" height="123" frameX="0" frameY="0" frameWidth="1188" frameHeight="239"/>
+	<SubTexture name="speech square open0002" x="0" y="447" width="1188" height="162" frameX="0" frameY="0" frameWidth="1188" frameHeight="239"/>
+	<SubTexture name="speech square open0003" x="0" y="609" width="1188" height="201" frameX="0" frameY="0" frameWidth="1188" frameHeight="239"/>
+	<SubTexture name="speech square open0004" x="0" y="0" width="1188" height="239"/>
+</TextureAtlas>

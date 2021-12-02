@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Purple_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PURPLE0000" x="0" y="0" width="410" height="481"/>
+	<SubTexture name="PURPLE0001" x="0" y="0" width="410" height="481"/>
+	<SubTexture name="PURPLE0002" x="0" y="0" width="410" height="481"/>
+	<SubTexture name="PURPLE0003" x="0" y="0" width="410" height="481"/>
+	<SubTexture name="PURPLE0004" x="0" y="0" width="410" height="481"/>
+	<SubTexture name="PURPLE0005" x="0" y="0" width="410" height="481"/>
+	<SubTexture name="PURPLE DAMN0000" x="1230" y="0" width="410" height="481"/>
+	<SubTexture name="PURPLE DAMN0001" x="1230" y="0" width="410" height="481"/>
+	<SubTexture name="PURPLE DAMN0002" x="1230" y="0" width="410" height="481"/>
+	<SubTexture name="PURPLE DAMN0003" x="1230" y="0" width="410" height="481"/>
+	<SubTexture name="PURPLE DAMN0004" x="1230" y="0" width="410" height="481"/>
+	<SubTexture name="PURPLE DAMN0005" x="1230" y="0" width="410" height="481"/>
+	<SubTexture name="PURPLE DAMN LOOP0000" x="410" y="0" width="410" height="481"/>
+	<SubTexture name="PURPLE DAMN LOOP0001" x="410" y="0" width="410" height="481"/>
+	<SubTexture name="PURPLE DAMN LOOP0002" x="820" y="0" width="410" height="481"/>
+	<SubTexture name="PURPLE DAMN LOOP0003" x="820" y="0" width="410" height="481"/>
+	<SubTexture name="PURPLE DAMN LOOP0004" x="1230" y="0" width="410" height="481"/>
+	<SubTexture name="PURPLE DAMN LOOP0005" x="1230" y="0" width="410" height="481"/>
+	<SubTexture name="PURPLE FUCK LOOP0000" x="0" y="481" width="410" height="481"/>
+	<SubTexture name="PURPLE FUCK LOOP0001" x="410" y="481" width="410" height="481"/>
+	<SubTexture name="PURPLE FUCK LOOP0002" x="820" y="481" width="410" height="481"/>
+	<SubTexture name="PURPLE LOOP0000" x="1230" y="481" width="410" height="481"/>
+	<SubTexture name="PURPLE LOOP0001" x="1230" y="481" width="410" height="481"/>
+	<SubTexture name="PURPLE LOOP0002" x="0" y="962" width="410" height="481"/>
+	<SubTexture name="PURPLE LOOP0003" x="0" y="962" width="410" height="481"/>
+	<SubTexture name="PURPLE LOOP0004" x="410" y="962" width="410" height="481"/>
+	<SubTexture name="PURPLE LOOP0005" x="410" y="962" width="410" height="481"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+{
+	"idle_anim": "M Purple Idle",
+	"image": "Menu_Purple",
+	"position": [
+		-137,
+		-28
+	],
+	"scale": 0.65,
+	"confirm_anim": "M BF Idle"
+}
